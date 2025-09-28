@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: linear-gradient(180deg, #c4b6fd,  #c4b6fd);
+}
+ ul li {
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin: 12px;
+    color: #fff;
+}
+ul li a{
+    color: #fff;
+}
+.navbar-brand{
+    font-size: 10px;
+    font-weight: 800;
+}
+.col-12 h1{
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.col-12 h2{
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+.col-12 p{
+    margin-top: 20px;
+    font-weight: 800;
+    font-size: 15px;
+}
+/* .col-lg-4{
+    width: 150px;
+    height: 150px;
+    background-color: #fff;
+    box-shadow: 0 0 5px;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 15px;
+} */
+
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 6px;
+}
